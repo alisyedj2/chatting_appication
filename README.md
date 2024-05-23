@@ -36,7 +36,4 @@ git clone https://github.com/alisyedj2/chatting_appication.git
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-EOF
